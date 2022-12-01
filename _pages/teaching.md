@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I am just beginning to teach at the University of Southampton. For the 2022-2023 academic year, I am excited to be involved in SOES1009 The Living Earth as a guest lecturer and SOES6001 Contemporary Topics as a topic leader.
