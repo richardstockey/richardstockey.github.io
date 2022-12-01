@@ -115,7 +115,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: news # blog_name will be displayed in your blog page
 blog_nav_title: news # your blog must have a title for it to be displayed in the nav bar
-blog_description: updates from me, my collaborators and my group.
+blog_description: updates from me, my collaborators and my group. [currently under continued construction]
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -224,8 +224,6 @@ jekyll-archives:
     year: '/blog/:year/'
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
-
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
