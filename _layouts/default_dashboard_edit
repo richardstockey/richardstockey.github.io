@@ -20,10 +20,8 @@
       {{ content }}
     </div>
     
-    <!-- Test text -->
-    {% if page.gaia-0-1.dash -%}
-    {%- include cGEnIE_dash_gaia-0-1.html %}
-    {%- endif %}
+    <!-- cGEnIE gaia-0-1 dash -->
+    {%- include test_txt.html %}
 
     <!-- Footer -->
     {%- include footer.html %}
