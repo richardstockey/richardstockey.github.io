@@ -3,8 +3,8 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: My GitHub repositories and key repositories I have contributed to. 
-nav: true
-nav_order: 3
+nav: false
+nav_order: 
 ---
 
 ## GitHub users
