@@ -1,0 +1,13 @@
+This is a crude dashboard for cGEnIE experiments running on gaia-0-1. 
+
+A total of 18 [attempted] experiments have been run on gaia-0-1 in the last 7 days. 
+ At total of 18 [attempted] experiments have been run on gaia-0-1 in the last month. 
+A total of 18 [attempted] experiments have been run on gaia-0-1 in the last year. 
+
+Refreshed on 2022-12-08 at 03.22PM.
+
+/home/gaia-0-1/cgenie_log/cGEnIE.output.gaia-0-1_job10-20221207_06.27PM.log has been running for 1.00 model years
+/home/gaia-0-1/cgenie_log/cGEnIE.output.gaia-0-1_job.-20221207_06.13PM.log has been running for 4.00 model years
+/home/gaia-0-1/cgenie_log/cGEnIE.output.gaia-0-1_job7-20221207_06.30PM.log has been running for 4721.00 model years
+/home/gaia-0-1/cgenie_log/cGEnIE.output.gaia-0-1_job.8-20221207_06.14PM.log has been running for 3.00 model years
+/home/gaia-0-1/cgenie_log/cGEnIE.output.gaia-0-1_job8-20221208_10.59AM.log has been running for *** model years

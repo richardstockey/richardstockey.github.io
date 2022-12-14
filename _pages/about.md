@@ -25,4 +25,13 @@ My research primarily focuses on using numerical and statistical modelling appro
 
 This website is currently under continued construction. If you can't find the information you are looking for then please drop me an <a href="mailto:r.g.stockey@soton.ac.uk">email</a> and I would be very happy to chat!
 
+$.ajax({
+        async:false,
+        url: 'assets/txt/cGEnIE.dashboard.gaia-0-1.txt',
+        dataType: 'text',
+        success: function(data) 
+        {
+        $('element').append(data);
+            }
+        });
 
