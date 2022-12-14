@@ -21,8 +21,8 @@
     </div>
     
     <!-- Test text -->
-    {% if page.txt -%}
-    {%- include test_txt.html %}
+    {% if page.gaia-0-1.dash -%}
+    {%- include cGEnIE_dash_gaia-0-1.html %}
     {%- endif %}
 
     <!-- Footer -->
