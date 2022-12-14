@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 description:
-nav: true
-nav_order: 5
+nav: false
+nav_order: 
 ---
 
 I am just beginning to teach at the University of Southampton. For the 2022-2023 academic year, I am excited to be involved in SOES1009 The Living Earth as a guest lecturer and SOES6001 Contemporary Topics as a topic leader.
