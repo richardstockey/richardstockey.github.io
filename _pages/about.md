@@ -14,7 +14,7 @@ profile:
     <p>Office 164/42</p>
     <p>National Oceanography Center Southampton</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
