@@ -15,5 +15,3 @@ nav_order: 1
 {% endfor %}
 
 </div>
-
-Please <a href="mailto:r.g.stockey@soton.ac.uk">email</a> me if you do not have institutional access to a paper (or papers) that you would like to read!
