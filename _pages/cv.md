@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CV_2022_11.pdf
+cv_pdf: Stockey_CV_2023_01.pdf
 ---
